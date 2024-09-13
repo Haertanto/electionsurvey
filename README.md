@@ -8,3 +8,5 @@ Proyek AI Bot untuk Survei Elektoral bertujuan untuk mengembangkan sebuah bot be
 
 Tujuan Proyek:
 AI Bot untuk Survei Elektoral adalah alat yang inovatif dan efisien untuk memahami preferensi dan perilaku pemilih. Dengan pengumpulan data otomatis, analisis mendalam, dan kemampuan prediksi, bot ini akan sangat berguna bagi lembaga survei, partai politik, dan tim kampanye yang ingin membuat keputusan berbasis data untuk meningkatkan peluang kemenangan dalam pemilu.
+
+DEMO: ﻿https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=77eae3f2-f2f4-47dd-88da-e35c815be34e
