@@ -1,12 +1,13 @@
-# electionsurvey
-Bot Project for Electoral Survey in Indonesia
+# Bot Project for Electoral Survey in Indonesia
 
-Proyek: AI Bot untuk Survei Elektoral
+A Chatbot Electoral Survey is an innovative tool that leverages natural language processing to conduct automated electoral surveys. Build in Botpress. 
 
-Deskripsi Proyek:
-Proyek AI Bot untuk Survei Elektoral bertujuan untuk mengembangkan sebuah bot berbasis kecerdasan buatan yang dapat digunakan untuk mengumpulkan, menganalisis, dan memberikan wawasan terkait preferensi pemilih dalam pemilihan umum. Bot ini akan digunakan untuk melakukan survei elektoral secara otomatis, memungkinkan responden untuk memberikan opini mereka mengenai kandidat politik, partai, isu-isu penting, dan aspek-aspek lainnya yang relevan dengan pemilu.
+By simulating human conversation, the chatbot can ask a wide range of questions related to voter preferences, political issues, and demographic information. The collected data can be analyzed to provide valuable insights into public opinion, identify key voter segments, and inform campaign strategies. This project aims to streamline the survey process, increase response rates, and provide a more engaging way to gather electoral data.
 
-Tujuan Proyek:
-AI Bot untuk Survei Elektoral adalah alat yang inovatif dan efisien untuk memahami preferensi dan perilaku pemilih. Dengan pengumpulan data otomatis, analisis mendalam, dan kemampuan prediksi, bot ini akan sangat berguna bagi lembaga survei, partai politik, dan tim kampanye yang ingin membuat keputusan berbasis data untuk meningkatkan peluang kemenangan dalam pemilu.
+The Chatbot Electoral Survey offers a more efficient and engaging way to conduct electoral research. By automating the survey process, this tool can reach a larger and more diverse population of voters. The collected data can be used to:
+ * Identify key voter segments.
+ * Track changes in public opinion over time.
+ * Inform campaign strategies.
+ * Enhance democratic processes.
 
 DEMO: ﻿https://bit.ly/3MP3weE
