@@ -12,4 +12,4 @@ The Chatbot Electoral Survey offers a more efficient and engaging way to conduct
 
 ![Preview Chat BOT](https://github.com/Haertanto/electionsurvey/blob/main/botpress/previewBOTPRESS.png)
 
-DEMO: [Chat BOT](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/02/11/20241102115851-UELTI2SR.json)
+
